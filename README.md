@@ -4,6 +4,6 @@ The kicked rotor is a prototypical model in the field of classical and quantum c
 
 ![](./figs/pretty_colours_small.jpg)
 
-
+![](./figs/screenshot_fg.png)
 
 ![](./figs/output1.mp4)
